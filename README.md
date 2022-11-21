@@ -1,1 +1,1 @@
-# barber-shop
+# Demo Barber-shop
